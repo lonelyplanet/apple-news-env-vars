@@ -1,0 +1,18 @@
+{
+  "name": "lonelyplanet/apple-news-env-vars",
+  "description": "Get Apple News API credentials from envioronment variables.",
+  "version": "1.0.0",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0+",
+  "authors": [
+    {
+      "name": "Eric King",
+      "email": "eric.king@lonelyplanet.com",
+      "homepage": "http://webdeveric.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "composer/installers": "^1.0"
+  }
+}
